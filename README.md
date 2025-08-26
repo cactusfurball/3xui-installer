@@ -23,7 +23,7 @@
 ```bash
 sudo -i
 apt install -y curl
-bash <(curl -Ls https://raw.githubusercontent.com/cactusfurball/3xui-installer/install-3xui.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/cactusfurball/3xui-installer/main/install-3xui.sh)
 ```
 ---
 📝 Что делать во время установки
